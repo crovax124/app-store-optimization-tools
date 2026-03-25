@@ -15,3 +15,4 @@
 - [Sensor Tower](https://sensortower.com)
 - [Mobile Action](https://mobileaction.com)
 - [App Follow](https://appfollow.com)
+- [Screenshots.live](https://screenshots.live) - Design screenshot templates visually, render via API. Supports iPhone, iPad, Android with Fastlane integration.
